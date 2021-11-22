@@ -1,0 +1,23 @@
+body{
+    background-color: #0F3D0F;
+    color: yellow;
+}
+h1{
+    font-size: 100px;
+    text-align:center;
+}
+button{
+    background-color:cyan;
+    margin-left: 50vw;
+}
+button:hover{
+    background-color:red;
+    transform:scale(1.2);
+    /* box-shadow: 30,30,purple; */
+}   
+
+#game-modes{
+    border: 5px solid black;
+    width:20vw; 
+}
+
